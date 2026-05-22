@@ -1,4 +1,4 @@
-##📊 Analisador de Sentimentos com Streamlit & NLTK
+## 📊 Analisador de Sentimentos com Streamlit & NLTK
 
 Uma aplicação web simples e eficiente para análise de sentimentos em frases em Português. O sistema utiliza a biblioteca **NLTK** (através do algoritmo VADER) combinado com a **deep-translator** para tradução em tempo real, permitindo uma análise precisa sem a necessidade de APIs pagas ou treinamentos complexos de modelos.
 
